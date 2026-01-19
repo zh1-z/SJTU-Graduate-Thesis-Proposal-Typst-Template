@@ -1,8 +1,11 @@
 # SJTU Graduate Thesis Proposal Typst Template
+# 上海交通大学研究生学位论文开题报告 Typst 模板
 
 本项目是 **上海交通大学研究生学位论文开题报告** 的 Typst 模板。本模板严格根据上海交通大学研究生院官网提供的最新版 [Word 模板](https://www.gs.sjtu.edu.cn/xzzx/pygl) 制作。
 
 相比于传统的 LaTeX 模板，本模板具有 **极速编译**（毫秒级响应）以及 **零环境配置** 等优势。
+
+<img src="https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template/blob/main/0.1.0/thumbnail.png?raw=true" width="50%" />
 
 ## 使用方法
 
