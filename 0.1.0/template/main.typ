@@ -1,4 +1,4 @@
-#import "@preview/sjtu-graduate-thesis-proposal:0.1.0": project, mychecked, myunchecked
+#import "../lib.typ": project, mychecked, myunchecked
 // 获取当前日期并格式化为 2026-01-18 这种形式
 #let today-date = datetime.today().display("[year]-[month]-[day]")
 
@@ -276,4 +276,5 @@ $ A = mat(1, 2; 3, 4), quad sum_(i=1)^n i = (n(n+1)) / 2 $
     #set text(font: ("Times New Roman", "FangSong"), weight: "bold")
     日期/Date: #today-date
   ]
+
 )
