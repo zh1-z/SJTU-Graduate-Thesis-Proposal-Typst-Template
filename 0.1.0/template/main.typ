@@ -49,6 +49,7 @@
 //         示例 B: 仅使用名字文本 (临时方案) ---
 //                signature-text: "张三",
 //                signature-date: "2026-01-01"
+// 
 // 6. [date/signature-date] 
 //    封面日期/签字日期。
 //    today-date 为当天日期，格式："2026-01-01"
