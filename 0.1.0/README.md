@@ -6,7 +6,6 @@
 
 **Typst Template**
 
-[![GitHub stars](https://img.shields.io/github/stars/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template?style=social)](https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Typst Package](https://img.shields.io/badge/Typst-Package-239DAD)](https://typst.app/universe/package/sjtu-graduate-thesis-proposal)
 
@@ -513,7 +512,5 @@ A: 本模板专为上海交通大学设计，其他学校格式要求可能不�
 <div align="center">
 
 **让我们一起让学术写作更加高效！**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template&type=Date)](https://star-history.com/#zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template&Date)
 
 </div>
