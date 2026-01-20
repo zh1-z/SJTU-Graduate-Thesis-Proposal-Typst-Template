@@ -12,7 +12,7 @@
 本模板严格依据上海交通大学研究生院官方 [Word 模板](https://www.gs.sjtu.edu.cn/xzzx/pygl) 制作
 相比传统 LaTeX，Typst 提供 **毫秒级编译速度** 与 **零配置环境**
 
-📖 [查看完整文档](#使用指南) | 🎯 [快速开始](#快速开始) | 💬 [问题反馈](https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template/issues)
+📖 [查看完整文档](#-使用指南) | 🎯 [快速开始](#-快速开始) | 💬 [问题反馈](https://github.com/zh1-z/SJTU-Graduate-Thesis-Proposal-Typst-Template/issues)
 
 ---
 
@@ -452,7 +452,7 @@ sudo dnf install wqy-microhei-fonts wqy-zenhei-fonts
 <details>
 <summary><b>Q: 编译时提示找不到字体怎么办？</b></summary>
 
-A: 请确保已安装所需字体。Linux 用户可参考 [字体配置](#字体配置) 部分。使用 `typst fonts` 命令查看可用字体列表。
+A: 请确保已安装所需字体。Linux 用户可参考 [字体配置](#-字体配置) 部分。使用 `typst fonts` 命令查看可用字体列表。
 </details>
 
 <details>
