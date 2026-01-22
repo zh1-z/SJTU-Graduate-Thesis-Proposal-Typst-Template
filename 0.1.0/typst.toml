@@ -1,5 +1,5 @@
 [package]
-name = "sjtu-graduate-thesis-proposal"
+name = "std-sjtu-graduate-thesis-proposal"
 version = "0.1.0"
 entrypoint = "lib.typ"
 authors = ["zh1-z"]
